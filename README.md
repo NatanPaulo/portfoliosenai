@@ -50,5 +50,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by SENAI :wave: [Venha nos conhecer!](https://sp.senai.br)
-# portfolio
-# portfolio
